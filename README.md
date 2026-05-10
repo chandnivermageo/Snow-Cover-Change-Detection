@@ -1,5 +1,7 @@
 # Snow-Cover Delineation and Change Detection using Landsat 8 and DEM Integration
 
+![Snow Analysis](outputs/figures/snow_analysis.png)
+
 Python-based geospatial remote-sensing workflow for snow-cover delineation and temporal snow-change detection using Landsat 8 imagery and Digital Elevation Model (DEM) integration.
 
 The workflow combines NDSI-based snow extraction, cloud masking, DEM-assisted classification, and morphological image processing to evaluate snow-cover dynamics between 2013 and 2022 over the Siachen Glacier region.
